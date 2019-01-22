@@ -1,0 +1,15 @@
+{
+  "$schema": "http://json.schemastore.org/template",
+  "author": "Giancarlo Lelli",
+  "classifications": [ "Console", "UWP" ], 
+  "name": "Console App (.NET Core & UWP)",
+  "identity": "GiancarloLelli.UWP.Console.CSharp",         
+  "groupIdentity":"GiancarloLelli.UWP.Console",
+  "shortName": "coreuwp",
+  "tags": {
+    "language": "C#",
+    "type":"project"
+  },
+  "sourceName": "ConsoleApp",
+  "preferNameDirectory":true
+}

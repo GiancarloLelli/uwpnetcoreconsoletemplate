@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>GL.UWPNetCoreConsole.CSharp</id>
+    <version>1.0.0</version>
+    <description>A .NET CLI Project Template to use the UWP APIs inside a .NET Core 3.0 Console App</description>
+    <authors>Giancarlo Lelli</authors>
+    <packageTypes>
+      <packageType name="Template" />
+    </packageTypes>
+  </metadata>
+</package>
